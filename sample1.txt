@@ -1,0 +1,3 @@
+Example
+I modify this file and checked using git status
+in git bash

@@ -1,0 +1,3 @@
+another file is modified and checked
+in git bash 
+using $ git status
